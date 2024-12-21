@@ -37,7 +37,7 @@ import Gsap from '@/../public/img/icons/gsap.svg';
 import Codepen from '@/../public/img/icons/codepen.svg';
 import Prisma from '@/../public/img/icons/prisma.svg';
 import Stripe from '@/../public/img/icons/stripe.svg';
-import Asp from '@/../public/img/icons/asp.svg';
+import Asp from '@/../public/img/icons/Asp.svg';
 import Postman from '@/../public/img/icons/postman.svg';
 import Plawright from '@/../public/img/icons/playwright.svg';
 import Php from '@/../public/img/icons/php.svg';
