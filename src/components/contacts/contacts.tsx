@@ -32,7 +32,7 @@ const Contacts = () => {
             <Icon className={styles.icon} name="location" size={30} />
             <div>
               <h3 className={styles.infoTitle}>Location</h3>
-              <span>Yemen, Sana'a</span>
+              <span>Yemen, Sana&apos;a</span>
             </div>
           </div>
         </div>
